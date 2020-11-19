@@ -1,1 +1,0 @@
-execute o arquivo 'turtle_clock.py' e esperar alguns segundos até o relógio ser desenhado (+- 5segundos)
